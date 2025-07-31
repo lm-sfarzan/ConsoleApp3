@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "n2lj7O+sMhEj+r7n8uaJB/FbzT0r4nLJ+tgVYD2VkC/jhUcZsnkMR66Dgvu1TzoDoU5nBPh7TzEIZHdoDehHCg==",
+  "dgSpecHash": "zthrLeiqCww=",
   "success": true,
-  "projectFilePath": "C:\\Versionsverwaltung\\TempTest\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\sfarzan\\ConsoleApp3_Test\\ConsoleApp3-1\\ConsoleApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sfarzan\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\sfarzan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\sfarzan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\sfarzan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
